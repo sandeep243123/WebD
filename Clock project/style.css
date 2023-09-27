@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+}
+
+#timer{
+    border: 5px solid black;
+    position: relative;
+    margin: auto;
+    width: 50%;
+    top: 230px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.child,.r,.child1{
+    font-size: 80px;
+    margin: 0;
+    font-family:'Courier New', Courier, monospace;
+    display: inline-block;
+    position: relative;
+    left: 20%; 
+}
+.child1{
+    margin-top: 0px;
+    font-size: 40px;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    top: 250px;
+    left: 59%;
+}
+.name{
+    font-size: smaller;
+    font:bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
